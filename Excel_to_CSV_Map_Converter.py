@@ -5,7 +5,7 @@ import os
 from WarGamingEnvironment_vTest import TerrainType, ElevationType
 
 
-def excel_to_csv(excel_file_path: str, csv_file_path: str, max_width: int = 400, max_height: int = 100):
+def excel_to_csv(excel_file_path: str, csv_file_path: str, max_width: int = 400, max_height: int = 100):  # max_width: 400
     # Check if the Excel file exists
     if not os.path.exists(excel_file_path):
         raise FileNotFoundError(f"Excel file not found: {excel_file_path}")
@@ -111,8 +111,8 @@ if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
 
     # Construct full paths for input and output files
-    excel_file = os.path.join(script_dir, "map_design.xlsx")
-    csv_file = os.path.join(script_dir, "generated_map.csv")
+    excel_file = os.path.join(script_dir, "training_map_lvl_1.xlsx")  # map_design.xlsx
+    csv_file = os.path.join(script_dir, "training_map_lvl_1.csv")  # generated_map.csv
 
     # Check if the Excel file exists
     if not os.path.exists(excel_file):
