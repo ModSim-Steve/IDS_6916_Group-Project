@@ -1,0 +1,52 @@
+{
+  "model_dir": "./training_output_202500408_1955/models/best",
+  "num_episodes": 50,
+  "max_steps_per_episode": 500,
+  "map_file": "test_map_scenario1.csv",
+  "objective_location": [
+    350,
+    50
+  ],
+  "enemy_positions": [
+    [
+      346,
+      50
+    ],
+    [
+      340,
+      48
+    ]
+  ],
+  "unit_start_positions": {
+    "1SQD": [
+      330,
+      72
+    ],
+    "2SQD": [
+      360,
+      80
+    ],
+    "3SQD": [
+      340,
+      91
+    ],
+    "GTM1": [
+      336,
+      72
+    ],
+    "GTM2": [
+      348,
+      92
+    ],
+    "JTM1": [
+      352,
+      80
+    ],
+    "JTM2": [
+      356,
+      92
+    ]
+  },
+  "seed": null,
+  "timestamp": "2025-04-08 21:33:15"
+}
