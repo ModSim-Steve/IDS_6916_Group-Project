@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning (DRL) for military Course of Action (COA) anaylsis
+# AI for Tactical Planning: Route Generation and Adaptive Behavior
 
 This project implements a sophisticated reinforcement learning framework for training multi-agent systems in a custom military environment. Using a customized gymnasium environment - Proximal Policy Optimization (PPO) - and a progressive curriculum approach, agents learn increasingly complex behaviors - from basic navigation to advanced tactical operations involving terrain management and enemy engagement.
 
