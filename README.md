@@ -10,10 +10,11 @@ This research contributes to the field of tactical AI by demonstrating how prope
 
 ![Agents in action](https://github.com/ModSim-Steve/EEL_6812_Project/blob/main/Demos/Scen1Episode.gif)
 
-# Train Agents - How to:
+## How to - Train Agents:
 
-## Develop & Evaluate COAs - How to:
+## How to - Develop & Evaluate COAs:
 
 1. Determine what map you would like to use for your specific scenario and convert it to the format used within the WarGaming Environment.
-1.a. You can use the simple ![excel file](https://github.com/ModSim-Steve/EEL_6812_Project/blob/main/map_design.xlsx) to sketch out your map.  Ensure to use the terrain type encodings wihtin the cell (the double letter encoding will easily convert in the environment and will be conditionally rendered in the excel file for verification of the map).  Here are the encodings used: ![TerrainEncodings](https://github.com/ModSim-Steve/EEL_6812_Project/blob/main/Images/TerrainEncodings_excelrules.jpg)
+1.a. You can use the simple ![excel file](https://github.com/ModSim-Steve/EEL_6812_Project/blob/main/map_design.xlsx) to sketch out your map.  Ensure to use the terrain type encodings wihtin the cell (the double letter encoding will easily convert in the environment and will be conditionally rendered in the excel file for verification of the map).  Here are the encodings used:
+![TerrainEncodings](https://github.com/ModSim-Steve/EEL_6812_Project/blob/main/Images/TerrainEncodings_excelrules.jpg)
 1.b. Use the python file to convert the map design to the environment's format (ensure to update the drive path for the file).  ![Map Converter](https://github.com/ModSim-Steve/EEL_6812_Project/blob/main/Excel_to_CSV_Map_Converter.py)
