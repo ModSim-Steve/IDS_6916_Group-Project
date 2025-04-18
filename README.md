@@ -8,4 +8,4 @@ This research contributes to the field of tactical AI by demonstrating how prope
 
 ![Research Paper](link)
 
-![Agents in action](https://github.com/ModSim-Steve/EEL_6812_Project/blob/main/Demos/Scen1Episode.mp4)
+![Agents in action](https://github.com/ModSim-Steve/EEL_6812_Project/blob/main/Demos/Scen1Episode.gif)
