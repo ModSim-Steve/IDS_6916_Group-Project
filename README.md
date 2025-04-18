@@ -16,7 +16,7 @@ This research contributes to the field of tactical AI by demonstrating how prope
 
 1. Determine what map you would like to use for your specific scenario and convert it to the format used within the WarGaming Environment.
 
- 1.a. You can use the simple ![excel file](https://github.com/ModSim-Steve/EEL_6812_Project/blob/main/map_design.xlsx) to sketch out your map.  Ensure to use the terrain type encodings wihtin the cell (the double letter encoding will easily convert in the environment and will be conditionally rendered in the excel file for verification of the map).  Here are the encodings used:
+ - 1.a. You can use the simple ![excel file](https://github.com/ModSim-Steve/EEL_6812_Project/blob/main/map_design.xlsx) to sketch out your map.  Ensure to use the terrain type encodings wihtin the cell (the double letter encoding will easily convert in the environment and will be conditionally rendered in the excel file for verification of the map).  Here are the encodings used:
 
 ![TerrainEncodings](https://github.com/ModSim-Steve/EEL_6812_Project/blob/main/Images/TerrainEncodings_excelrules.jpg)
 
