@@ -6,7 +6,7 @@ The system features a carefully designed reward structure that balances team and
 
 This research contributes to the field of tactical AI by demonstrating how properly structured learning environments can produce sophisticated behaviors through reinforcement learning rather than rule-based systems, potentially improving both training simulations and autonomous tactical decision-making applications.
 
-The following paper provides a detailed description of the project's scope and design (specifically the obervation space, action space, reward structure, and curriculum training protocol): ![Research Paper](link)
+The following paper provides a detailed description of the project's scope and design (specifically the obervation space, action space, reward structure, and curriculum training protocol): ![Research Paper](https://github.com/ModSim-Steve/IDS_6916_Group-Project/blob/main/Moore_Lucernoni_Yingling_AI_for_Tactical_Planning_Route_Generation_and_Adaptive_Behavior.pdf)
 
 ![Agents in action](https://github.com/ModSim-Steve/EEL_6812_Project/blob/main/Demos/Scen1Episode.gif)
 
